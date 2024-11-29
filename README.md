@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/shiva-kkd/LeetCode/tree/master/0283-move-zeroes) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/shiva-kkd/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1791-richest-customer-wealth](https://github.com/shiva-kkd/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Two Pointers
 |  |

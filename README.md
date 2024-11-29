@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shiva-kkd/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shiva-kkd/LeetCode/tree/master/0283-move-zeroes) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-kkd/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shiva-kkd/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -19,10 +20,12 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shiva-kkd/LeetCode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-kkd/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/shiva-kkd/LeetCode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-kkd/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |

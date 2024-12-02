@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shiva-kkd/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shiva-kkd/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shiva-kkd/LeetCode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/shiva-kkd/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shiva-kkd/LeetCode/tree/master/0414-third-maximum-number) |
@@ -23,16 +24,23 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shiva-kkd/LeetCode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shiva-kkd/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shiva-kkd/LeetCode/tree/master/0217-contains-duplicate) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-kkd/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shiva-kkd/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shiva-kkd/LeetCode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/shiva-kkd/LeetCode/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-kkd/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shiva-kkd/LeetCode/tree/master/0169-majority-element) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-kkd/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shiva-kkd/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

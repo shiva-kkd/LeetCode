@@ -11,6 +11,7 @@
 | [0283-move-zeroes](https://github.com/shiva-kkd/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shiva-kkd/LeetCode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/shiva-kkd/LeetCode/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/shiva-kkd/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-kkd/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shiva-kkd/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1791-richest-customer-wealth](https://github.com/shiva-kkd/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -18,6 +19,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/shiva-kkd/LeetCode/tree/master/0283-move-zeroes) |
+| [0941-sort-array-by-parity](https://github.com/shiva-kkd/LeetCode/tree/master/0941-sort-array-by-parity) |
 ## Matrix
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 | [0268-missing-number](https://github.com/shiva-kkd/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/shiva-kkd/LeetCode/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/shiva-kkd/LeetCode/tree/master/0645-set-mismatch) |
+| [0941-sort-array-by-parity](https://github.com/shiva-kkd/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-kkd/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
 |  |

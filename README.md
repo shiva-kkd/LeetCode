@@ -13,6 +13,7 @@
 | [0645-set-mismatch](https://github.com/shiva-kkd/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/shiva-kkd/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shiva-kkd/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shiva-kkd/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shiva-kkd/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/shiva-kkd/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1791-richest-customer-wealth](https://github.com/shiva-kkd/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -63,6 +64,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/shiva-kkd/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/shiva-kkd/LeetCode/tree/master/0268-missing-number) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shiva-kkd/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Binary Search
 |  |
 | ------- |

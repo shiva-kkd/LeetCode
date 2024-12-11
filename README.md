@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shiva-kkd/LeetCode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shiva-kkd/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/shiva-kkd/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shiva-kkd/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shiva-kkd/LeetCode/tree/master/0217-contains-duplicate) |
@@ -72,6 +73,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shiva-kkd/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/shiva-kkd/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiva-kkd/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation

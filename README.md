@@ -11,6 +11,7 @@
 | [0268-missing-number](https://github.com/shiva-kkd/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shiva-kkd/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/shiva-kkd/LeetCode/tree/master/0414-third-maximum-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shiva-kkd/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/shiva-kkd/LeetCode/tree/master/0645-set-mismatch) |
 | [0941-sort-array-by-parity](https://github.com/shiva-kkd/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/shiva-kkd/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shiva-kkd/LeetCode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/shiva-kkd/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -9,8 +9,6 @@ class Solution {
             }
             digits[i] = 0;
         }
-
-        // If all digits were 9, we need an extra digit (e.g., 999 + 1 = 1000)
         int[] newDigits = new int[n + 1];
         newDigits[0] = 1;
         return newDigits;

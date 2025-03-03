@@ -1,7 +1,7 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int r=0;
-        for(int i=0; i<nums.length; i++) r^=nums[i];
+        int r=0, n=nums.length;
+        for(int i=0; i<n; i++) r^=nums[i];
         return r;
         
     }

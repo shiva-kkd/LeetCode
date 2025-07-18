@@ -78,6 +78,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/shiva-kkd/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/shiva-kkd/LeetCode/tree/master/0066-plus-one) |
+| [0233-number-of-digit-one](https://github.com/shiva-kkd/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/shiva-kkd/LeetCode/tree/master/0268-missing-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/shiva-kkd/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 ## Binary Search
@@ -96,4 +97,12 @@
 | [0136-single-number](https://github.com/shiva-kkd/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/shiva-kkd/LeetCode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/shiva-kkd/LeetCode/tree/master/0645-set-mismatch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/shiva-kkd/LeetCode/tree/master/0233-number-of-digit-one) |
+## Recursion
+|  |
+| ------- |
+| [0233-number-of-digit-one](https://github.com/shiva-kkd/LeetCode/tree/master/0233-number-of-digit-one) |
 <!---LeetCode Topics End-->
